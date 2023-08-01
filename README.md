@@ -12,4 +12,4 @@ The deployable frontend version for Ultraviolet, a highly sophisticated proxy us
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/Thesecondalthowcool/Ultraviolet-Frontend/)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/Thesecondalthowcool/Ultraviolet-Frontend/)
 
-If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/titaniumnetwork-dev/Ultraviolet-Frontend/wiki/Deploy-via-terminal).
+If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/Thesecondalthowcool/Ultraviolet-Frontend/wiki/Deploy-via-terminal).
