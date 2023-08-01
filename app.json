@@ -1,0 +1,7 @@
+{
+  "name": "Ultraviolet Frontend",
+  "description": "Node.js Ultraviolet instance",
+  "repository": "https://github.com/Thesecondalthowcool/Ultraviolet-Frontend",
+  "logo": "https://raw.githubusercontent.com/Thesecondalthowcool/Ultraviolet-Frontend/main/static/uv.png",
+  "keywords": ["tomp", "ultraviolet"]
+}
