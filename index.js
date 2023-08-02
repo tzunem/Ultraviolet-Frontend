@@ -40,7 +40,7 @@ server.on("upgrade", (req, socket, head) => {
   }
 });
 
-const port = process.env.PORT || 3300;
+const port = process.env.PORT || 3000;
 
 server.on("listening", () => {
   const address = server.address();
